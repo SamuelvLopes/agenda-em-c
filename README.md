@@ -1,2 +1,2 @@
-# brincadeiras
-Códigos aleatórios de testes e aprendizagem
+# Agenda  em C
+Atividade da aula da disciplina de algoritmo
