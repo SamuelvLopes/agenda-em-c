@@ -1,2 +1,2 @@
 # Agenda  em C
-Atividade da aula da disciplina de algoritmo
+Atividade da aula da disciplina de algoritmo.
